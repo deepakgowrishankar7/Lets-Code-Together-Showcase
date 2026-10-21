@@ -1,30 +1,26 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀-Let's%20Code%20Together-0f172a?style=for-the-badge&labelColor=2563eb&color=0f172a" alt="Let's Code Together" width="600"/>
-
-<br/><br/>
-
 # 🚀 Let's Code Together
 
-### _An All-in-One Interactive Coding, Learning & Community Platform_
+### *The All-in-One Interactive Coding, Learning & Mobile Ecosystem*
 
 <br/>
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Render](https://img.shields.io/badge/Live%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0%20Production-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakgowrishankar7/Lets-Code-Together-Showcase/releases/tag/v1.0.0)
+[![Android APK](https://img.shields.io/badge/Android%20APK-Download%20(67MB)-10b981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/deepakgowrishankar7/Lets-Code-Together-Showcase/releases/download/v1.0.0/LetsCodeTogether-v1.0.0.apk)
+[![Web Platform](https://img.shields.io/badge/Web%20Portal-Live%20Demo-6366f1?style=for-the-badge&logo=render&logoColor=white)](https://lets-code-together.onrender.com)
+[![React Native](https://img.shields.io/badge/Mobile-React%20Native%20%2F%20Expo-2496ED?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev)
+[![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot%203.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
 <br/>
 
-**Learn · Code · Compile · Visualize · Communicate — All in One Place**
+**Learn · Code · Compile · Visualize · Communicate — On Web & Android**
 
-_A premium, full-stack web platform where students can learn programming through structured courses, compile code in 8+ languages, visualize execution step-by-step, take quizzes, and chat with peers — all wrapped in a glassmorphic, modern UI._
+*A unified, full-stack educational and development platform combining the interactive learning of LeetCode, the multi-language execution of an online IDE, the execution tracing of a code visualizer, and an ATS resume studio — accessible on desktop and native Android.*
 
 <br/>
 
-### 🌐 [**Try the Live Demo →**](https://lets-code-together.onrender.com)
+### 📲 [**Download Android APK v1.0.0 (Direct CDN)**](https://github.com/deepakgowrishankar7/Lets-Code-Together-Showcase/releases/download/v1.0.0/LetsCodeTogether-v1.0.0.apk) &nbsp;•&nbsp; 🌐 [**Try Live Web Demo**](https://lets-code-together.onrender.com) &nbsp;•&nbsp; 📄 [**Open Showcase Webpage**](https://deepakgowrishankar7.github.io/Lets-Code-Together-Showcase/)
 
 <br/>
 
@@ -32,239 +28,125 @@ _A premium, full-stack web platform where students can learn programming through
 
 </div>
 
-## 🎯 What is Let's Code Together?
+## 📱 Mobile App Showcase (Android v1.0.0)
 
-**Let's Code Together** is a **full-stack educational platform** built from scratch — designed to be a one-stop hub for students learning to code. It combines the best features of platforms like LeetCode, Repl.it, and Discord into a single, beautifully designed application.
-
-> 💡 This is a **solo-developed** project showcasing full-stack engineering, system design, and premium UI/UX skills.
-
----
-
-## ✨ Platform Features
+The native mobile app is built with **React Native (Expo SDK 52)** and connects seamlessly to the cloud workspace. It provides a full-featured handheld development environment without compromises.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Learning Hub
-- **4 Active Courses** — Java, Python, SQL, DSA
-- **12+ Upcoming Courses** — C++, React, AWS, Node.js, Web Dev, DBMS, Cybersecurity, Data Analytics & more
-- **Structured Curriculum** — Topic-by-topic learning with downloadable PDF resources
-- **Animated Video Lessons** — Visual concept explanations for complex topics
-- **Interactive Quizzes** — Scored assessments with performance analytics
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Online IDE & Compiler
-- **8 Languages** — Python 3, Java 21, C++ (GCC), C (GCC), JavaScript (Node.js), Go, Ruby, PHP
-- **Code Execution Visualizer** — Step-by-step line-by-line execution tracing
-- **Live Code Rooms** — Real-time collaborative coding sessions with shareable links
-- **Keyboard Shortcuts** — `Ctrl+Enter` to compile & run
-- **Execution Stats** — Runtime, memory usage, and status tracking
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Communication Hub
-- **Public Chat** — Community-wide discussion board
-- **Private Messaging** — Direct 1-on-1 messaging between users
-- **Admin Announcements** — Platform-wide broadcast messages
-- **Real-Time User Search** — Instant multi-field search (name/username)
-- **Smart Date Headers** — Messages grouped by Today, Yesterday, and exact dates
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Platform & Security
-- **JWT Authentication** — Secure token-based login system
-- **Admin Dashboard** — Full user management, analytics & notification control
-- **Quiz Score Tracking** — Visual performance charts with Chart.js
-- **Email Integration** — Password reset via SMTP email
-- **PWA Support** — Installable as a native-like mobile/desktop app
-- **Dark / Light Theme** — System-wide one-click theme toggle
-
-</td>
-</tr>
+  <tr>
+    <td width="25%" align="center">
+      <img src="./assets/screenshots/app_home_courses.png" width="100%" alt="Courses Hub"/>
+      <br/><b>📚 Course Hub & Topics</b>
+    </td>
+    <td width="25%" align="center">
+      <img src="./assets/screenshots/app_compiler_ide.png" width="100%" alt="In-App Compiler"/>
+      <br/><b>⚡ 8-Language IDE & Compiler</b>
+    </td>
+    <td width="25%" align="center">
+      <img src="./assets/screenshots/app_course_study.png" width="100%" alt="Study Hub"/>
+      <br/><b>🎯 Distraction-Free Study</b>
+    </td>
+    <td width="25%" align="center">
+      <img src="./assets/screenshots/app_resume_builder.png" width="100%" alt="ATS Resume Builder"/>
+      <br/><b>📄 ATS Resume Builder</b>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🏗️ Tech Stack
+## ⚡ Core Features & Capabilities
 
-<div align="center">
+### 💻 1. Multi-Language IDE & Mobile Compiler
+- **8 Supported Languages:** Python 3, Java 21, C++, C, JavaScript (Node.js), Go, Ruby, and PHP.
+- **Embedded Execution Engine:** Write code on your smartphone or browser and get immediate stdout, stderr, execution time, and memory metrics.
+- **In-Console AI Auto-Debugger:** When syntax or logic bugs trigger exceptions, the debugger offers intelligent diagnostics directly in the output console and applies fixes with word-by-word animated compiler injection.
 
-### ⚙️ Backend
+### 🔬 2. Real-Time Algorithm Visualizer
+- **Step-by-Step Code Tracing:** Watch variables update in real time as algorithms execute.
+- **Call Stack & Memory Inspection:** Visualize recursion trees, loop state transitions, and memory pointers to understand complex DSA concepts deeply.
 
-| Technology | Purpose |
-|:---|:---|
-| **Spring Boot 3.5** | Core REST API framework |
-| **Spring Security + JWT** | Authentication & authorization |
-| **Spring Data JPA + Hibernate** | ORM & database layer |
-| **Spring Mail** | Email services (password reset) |
-| **MySQL 8.0** | Relational database |
-| **Lombok** | Boilerplate reduction |
-| **SpringDoc OpenAPI** | Auto-generated API docs (Swagger UI) |
+### 🎓 3. Interactive Learning & Interview Hub
+- **Core Curriculum:** Java, Python, SQL, and Data Structures & Algorithms.
+- **Curated Interview Bank:** Topic-specific questions and technical answers for interview revision.
+- **Full-Screen Focus Mode:** Distraction-free mobile reading mode with text-to-speech audio companion for listening on the go.
+- **Knowledge Quizzes:** Scored assessments with visual analytics to track topic retention.
 
-### 🎨 Frontend
+### 📄 4. ATS Interactive Resume Builder
+- **Job-Ready Formatting:** Input education, skills, projects, and certifications into high-converting, ATS-compliant formats.
+- **Dynamic Profile Derivation:** Automatically links with user profile data for immediate preview and export.
 
-| Technology | Purpose |
-|:---|:---|
-| **Vanilla HTML / CSS / JavaScript** | Zero-framework, high-performance UI |
-| **Custom Glassmorphic Design System** | Premium UI with `backdrop-filter: blur` effects |
-| **Chart.js** | Interactive quiz score analytics |
-| **Google Fonts (Inter)** | Modern, clean typography |
-| **Service Worker + Manifest** | PWA — offline support & app installation |
-
-### 🚀 DevOps & Deployment
-
-| Technology | Purpose |
-|:---|:---|
-| **Docker** | Multi-stage build with embedded compilers (Java, Python, C/C++, Node.js) |
-| **Render** | Cloud hosting with automatic GitHub deploy |
-| **Maven** | Build automation & dependency management |
-
-</div>
+### 💬 5. Real-Time Collaboration & Leaderboards
+- **Public Chat & Direct Messages:** Exchange thoughts, ask questions, and collaborate with peers in real time.
+- **Learning Streak & Leaderboards:** Stay accountable with daily activity tracking, challenge completions, and peer rankings.
 
 ---
 
-## 🏛️ Architecture Overview
+## 📥 How to Install the Android App
+
+1. **Download the APK:**  
+   Click the direct download link: [**`LetsCodeTogether-v1.0.0.apk`**](https://github.com/deepakgowrishankar7/Lets-Code-Together-Showcase/releases/download/v1.0.0/LetsCodeTogether-v1.0.0.apk) (Size: ~67 MB).
+2. **Enable Unknown Apps (if prompted):**  
+   Tap the downloaded `.apk` file. If Android prompts you with a security alert, select **Settings** and toggle **"Allow from this source"**.
+3. **Install & Launch:**  
+   Tap **Install**. Once finished, launch **Let's Code Together** and start coding immediately!
+
+---
+
+## 🏗️ System Architecture
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                        CLIENT (Browser)                         │
-│  ┌─────────┐ ┌──────────┐ ┌──────────┐ ┌───────┐ ┌──────────┐  │
-│  │  Login  │ │  Courses │ │ Compiler │ │  Chat │ │  Admin   │  │
-│  │  Page   │ │  & DSA   │ │  & IDE   │ │  Hub  │ │  Panel   │  │
-│  └────┬────┘ └────┬─────┘ └────┬─────┘ └───┬───┘ └────┬─────┘  │
-│       │           │            │            │          │         │
-│       └───────────┴────────────┴────────────┴──────────┘         │
-│                          REST API + JWT                          │
-└──────────────────────────────┬───────────────────────────────────┘
-                               │
-┌──────────────────────────────▼───────────────────────────────────┐
-│                    SPRING BOOT 3.5 SERVER                        │
-│  ┌──────────────┐ ┌────────────────┐ ┌────────────────────────┐  │
-│  │    Auth       │ │   Compile      │ │   Message / Quiz       │  │
-│  │  Controller   │ │  Controller    │ │   Controllers          │  │
-│  │  (JWT + Mail) │ │  (8 Languages) │ │   (Public + Private)   │  │
-│  └──────┬───────┘ └───────┬────────┘ └───────────┬────────────┘  │
-│         │                 │                      │               │
-│  ┌──────▼─────────────────▼──────────────────────▼────────────┐  │
-│  │              Service Layer + JPA Repositories              │  │
-│  └────────────────────────┬───────────────────────────────────┘  │
-└───────────────────────────┬──────────────────────────────────────┘
-                            │
-                   ┌────────▼────────┐
-                   │   MySQL 8.0     │
-                   │   Database      │
-                   └─────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│                    User Client Applications                     │
+├────────────────────────────────┬────────────────────────────────┤
+│     Android Native Mobile      │     Responsive Web Portal      │
+│  (React Native / Expo SDK 52)  │    (HTML5 / Tailwind / PWA)    │
+└────────────────┬───────────────┴────────────────┬───────────────┘
+                 │                                │
+                 ▼                                ▼
+┌─────────────────────────────────────────────────────────────────┐
+│               REST API & WebSocket Stomp Broker                 │
+│         (Spring Boot 3.5 • Java 25 • Spring Security 6)        │
+├─────────────────────────────────────────────────────────────────┤
+│  • JWT Authentication Filter    • Multi-Language Code Runner    │
+│  • Course & Topic Engine        • Real-Time Chat & Direct Msg   │
+│  • Quiz Assessment Controller   • ATS Resume Service            │
+└────────────────┬────────────────────────────────┬───────────────┘
+                 │                                │
+                 ▼                                ▼
+┌─────────────────────────────────┐  ┌────────────────────────────┐
+│      Relational Persistence     │  │       Execution Pool       │
+│     (MySQL 8.0 / Hibernate 6)   │  │   (Isolated Code Sandbox)  │
+└─────────────────────────────────┘  └────────────────────────────┘
 ```
 
 ---
 
-## 🎨 Design Philosophy
+## 🛠️ Technology Stack
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🪟
-**Glassmorphism**
-<br/>Frosted glass cards with backdrop blur for depth and elegance
-
-</td>
-<td align="center" width="33%">
-
-### 🎯
-**Royal Blue Palette**
-<br/>Consistent `#2563eb` accent across all interactive elements
-
-</td>
-<td align="center" width="33%">
-
-### ✨
-**Micro-Animations**
-<br/>Smooth transitions, hover effects & reveal animations
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### 📱
-**Fully Responsive**
-<br/>Adaptive layout for desktop, tablet & mobile
-
-</td>
-<td align="center" width="33%">
-
-### 🌗
-**Dual Theme**
-<br/>Light & Dark modes with seamless one-click toggle
-
-</td>
-<td align="center" width="33%">
-
-### ⚡
-**Zero Framework**
-<br/>Vanilla JS — no overhead, instant load times
-
-</td>
-</tr>
-</table>
+| Layer | Technologies |
+|---|---|
+| **Mobile Client** | React Native, Expo SDK 52, Lucide Icons, React Navigation |
+| **Web Frontend** | HTML5, Tailwind CSS, Monaco Code Editor, Chart.js, PWA |
+| **Backend Core** | Spring Boot 3.5, Java 25, Spring Data JPA, Spring Security 6, JJWT |
+| **Execution Sandboxes** | Python 3, OpenJDK 21, GCC (C/C++), Node.js, Go, Ruby, PHP |
+| **Database** | MySQL 8.0, Hibernate 6 ORM, Flyway Migrations |
+| **Deployment & CI/CD** | Docker, Render Cloud, GitHub Actions (Automated Gradle Builds) |
 
 ---
 
-## 📊 Project Stats
+## 🔗 Project Links
 
-| Metric | Value |
-|:---|:---|
-| **Total Frontend CSS** | ~9,500+ lines |
-| **Total Frontend JS** | ~5,500+ lines |
-| **Backend Controllers** | 10 REST controllers |
-| **Database Entities** | 9 JPA entities |
-| **Supported Languages** | 8 programming languages |
-| **Active Courses** | 4 (Java, Python, SQL, DSA) |
-| **Upcoming Courses** | 12+ |
+- 📲 **Official Android APK:** [Download v1.0.0](https://github.com/deepakgowrishankar7/Lets-Code-Together-Showcase/releases/download/v1.0.0/LetsCodeTogether-v1.0.0.apk)
+- 🌐 **Live Web App:** [https://lets-code-together.onrender.com](https://lets-code-together.onrender.com)
+- 💻 **Showcase Landing Page:** [https://deepakgowrishankar7.github.io/Lets-Code-Together-Showcase/](https://deepakgowrishankar7.github.io/Lets-Code-Together-Showcase/)
+- 📦 **GitHub Releases:** [Showcase Releases v1.0.0](https://github.com/deepakgowrishankar7/Lets-Code-Together-Showcase/releases)
 
 ---
-
-## 🧑‍💻 Key Technical Highlights
-
-- **🔐 Full Authentication System** — Register, Login, JWT tokens, Password reset via email
-- **⚡ Multi-Language Code Execution** — Docker container with embedded compilers (Java, Python, C/C++, Node.js)
-- **📊 Real-Time Analytics** — Chart.js-powered quiz score dashboards
-- **🔍 Code Execution Visualizer** — Integration with Python Tutor for step-by-step code tracing
-- **💬 Real-Time Messaging** — Public chat, private DMs, and admin broadcasts
-- **📱 Progressive Web App** — Service worker + manifest for installable app experience
-- **🎨 9,500+ Lines of Custom CSS** — Hand-crafted glassmorphic design system with dual-theme support
-- **🐳 Production Docker Build** — Multi-stage build with all compiler runtimes included
-
----
-
-## 👨‍💻 About the Developer
 
 <div align="center">
 
-**Deepak Gowrishankar**
-
-_Full-Stack Developer_
-
-[![GitHub](https://img.shields.io/badge/GitHub-deepakgowrishankar7-181717?style=for-the-badge&logo=github)](https://github.com/deepakgowrishankar7)
-
-<br/>
-
-> _"Built from scratch as a passion project to create the ultimate coding education platform."_
-
----
-
-### 🌐 [**Try the Live Demo →**](https://lets-code-together.onrender.com)
-
-<br/>
-
-⭐ **If you like this project, please give it a star!**
+Developed with dedication by **[Deepak Gowrishankar](https://github.com/deepakgowrishankar7)**  
+*Empowering every coder to learn, build, and grow together.*
 
 </div>
