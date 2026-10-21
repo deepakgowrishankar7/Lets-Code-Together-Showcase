@@ -120,7 +120,7 @@
 
 <div align="center">
 
-<img src="./assets/creator-photo.jpg" alt="Deepak Gowri Shankar Enduri" width="100" style="border-radius: 12px;"/>
+<img src="./assets/creator-photo.jpg" alt="Deepak Gowri Shankar Enduri" width="180" style="border-radius: 16px;"/>
 
 ### **Deepak Gowri Shankar Enduri**
 **CREATOR & LEAD ARCHITECT**  
