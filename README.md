@@ -126,7 +126,7 @@
 **CREATOR & LEAD ARCHITECT**  
 `B.Tech • Computer Science & Engineering (CSE)`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deepakgowrishankar7-2563eb?style=flat-square&logo=github)](https://github.com/deepakgowrishankar7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Deepak%20Gowri%20Shankar%20Enduri-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://deepakgowrishankar7.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-deepakgowrishankar7@gmail.com-d97706?style=flat-square&logo=gmail)](mailto:deepakgowrishankar7@gmail.com)
 
 </div>
